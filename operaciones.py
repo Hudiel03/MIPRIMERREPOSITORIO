@@ -8,3 +8,11 @@ m6=float(input("ingresa la calificacion de ESTUDIO DE TRABAJO: "))
 
 Promedio=((m1+m2+m3+m4+m5+m6)/6)
 print ("El Promedio de "+str (alumno)+" Es: "+ str(Promedio))
+
+if (Promedio >=7.0):
+    
+    
+    print ("APROBADO")   
+
+if (Promedio <=6.9):
+       print ("REPROBADO") 
