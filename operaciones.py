@@ -5,3 +5,6 @@ m3=float(input("ingresa la calificacion de CALCULO: "))
 m4=float(input("ingresa la calificacion de ECONOMIA: "))
 m5=float(input("ingresa la calificacion de ESTADISTICA: " ))
 m6=float(input("ingresa la calificacion de ESTUDIO DE TRABAJO: "))
+
+Promedio=((m1+m2+m3+m4+m5+m6)/6)
+print ("El Promedio de "+str (alumno)+" Es: "+ str(Promedio))
