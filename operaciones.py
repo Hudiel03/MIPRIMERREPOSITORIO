@@ -1,1 +1,7 @@
 alumno= str(input("ingresa Nombre del Alumno:"))
+m1=float(input("ingresa la calificacion de METODOLOGIA: "))
+m2=float(input("ingresa la calificacion de ALGEBRA: "))
+m3=float(input("ingresa la calificacion de CALCULO: "))
+m4=float(input("ingresa la calificacion de ECONOMIA: "))
+m5=float(input("ingresa la calificacion de ESTADISTICA: " ))
+m6=float(input("ingresa la calificacion de ESTUDIO DE TRABAJO: "))
